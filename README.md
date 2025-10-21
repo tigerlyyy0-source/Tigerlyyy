@@ -1,16 +1,16 @@
 # Tigerlyyy
-<!-- Crazy Profile README for tigerlyyy0-source -->
+# Tigerlyyy0 - Digital Arcade of Code
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7941D&width=700&lines=👾+Welcome+to+My+Digital+Arcade!+👾" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120" /><br>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120" alt="GIF" /><br>
   <b><span style="font-size: 1.25em; color: #FFD700;">tigerlyyy0-source</span></b>
 </p>
 
-<p align="center" style="font-size:1.1em">
+<p align="center" style="font-size:1.1em; color: #FF1493;">
   🌈 <b>Code Wizard | Game Dev | Digital Dreamer</b> 🚀 <br>
   🎮 <b>TETRIS (Glowing Edition)</b> ⬇️
 </p>
@@ -25,22 +25,21 @@
 
 - 🧬 Building code, breaking records
 - 🎲 I turn caffeine into glowing pixels
-- 🧑‍💻 Python, JavaScript, C++, and shader magic
+- 🧑‍💻 Mastering Python, JavaScript, C++, and shader magic
 - 🌍 Dreaming in algorithms since <i>forever</i>
-- 📫 DM me for collabs, memes, or galactic missions
+- 📫 DM me for collabs, memes, or intergalactic missions
 
 ---
 
-### ⚡️ Snake? Tetris? Why not both! 
-<!-- You can embed your own SVG games or external SVGs/GIFs! -->
+### ⚡️ Snake? Tetris? Why not both! 🐍🎮
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## 🚀 Glowing Tetris SVG (Put this in your repo as tetris.svg)
+## 🚀 Glowing Tetris SVG (Embed in your repo)
 
 ```svg
 <!-- File: tetris.svg -->
@@ -73,18 +72,3 @@
   <!-- Glowing "TETRIS" text -->
   <text x="50%" y="110" text-anchor="middle" font-size="36" font-family="monospace" fill="#fff" filter="url(#glow)">TETRIS</text>
 </svg>
-```
-
----
-
-### 🎉 Let's Connect!
-
-[![Twitter](https://img.shields.io/badge/X-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/) 
-[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.com/) 
-[![Twitch](https://img.shields.io/badge/Twitch-purple.svg?logo=twitch&logoColor=white)](https://twitch.tv/)
-
----
-
-<p align="center" style="font-size:1.2em; color:#f700ff;">
-  <b>✨ Keep coding, keep glowing! ✨</b>
-</p>
